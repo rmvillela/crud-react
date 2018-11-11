@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Roosevelt Villela",
+      "email": "rmvillela@outlook.com"
+    },
+    {
+      "id": 2,
+      "name": "Bryan Villela",
+      "email": "bbryanvillela@gmail.com"
+    },
+    {
+      "name": "Ana Silva",
+      "email": "ana@email.com",
+      "id": 3
+    }
+  ]
+}
